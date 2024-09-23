@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benni</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🌱 I’m currently learning **Reactjs and nodejs**
+- 🌱 I’m currently work in PHP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
